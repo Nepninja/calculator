@@ -2,10 +2,17 @@
 
 Calculator has been built to describe the basic concepts of different flutter widgets along with their proper use.
 
-# Video
+# Videos 
 
-<div align="left">
-  <a href="https://www.youtube.com/watch?v=uu8XvXWWGq0&t=285s"><img src="https://i9.ytimg.com/vi_webp/uu8XvXWWGq0/mqdefault.webp?sqp=CICN9voF&rs=AOn4CLDhJJhoYweZ62KHHAzTHV4MxDceog" alt="IMAGE ALT TEXT"></a>
-</div>
+# Part 1
+   <div>
+   <div align="left">
+    <a href="https://www.youtube.com/embed/uu8XvXWWGq0"><img src="https://img.youtube.com/vi/uu8XvXWWGq0/hqdefault.jpg" alt=""></a>
+   </div> 
 
+# Part 2 
+   <div>
+    <div align="left">
+    <a href="https://www.youtube.com/embed/CfkktSdpBFI"><img src="https://img.youtube.com/vi/CfkktSdpBFI/hqdefault.jpg" alt=""></a>
+   </div> 
 
